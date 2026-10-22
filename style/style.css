@@ -90,6 +90,7 @@ a{
 }
 
 .vedilson-carregando{
+<<<<<<< HEAD
     width: 22%;
     float: right;
     
@@ -249,3 +250,9 @@ a{
     padding: 30px 0;
     text-align: center;
 }
+=======
+    width: 25%;
+    float: right;
+    
+}
+>>>>>>> f55738799502b0eaba28d5e11dab9ada55f2904d
